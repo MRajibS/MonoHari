@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>@font/aladin</item>
+        <item>@font/allura</item>
+        <item>@font/arizonia</item>
+        <item>@font/baloo</item>
+        <item>@font/bangers</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/covered_by_your_grace</item>
+        <item>@font/loved_by_the_king</item>
+    </array>
+</resources>

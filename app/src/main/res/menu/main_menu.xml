@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/cart"
+            android:title="My List" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/notification"
+            android:title="My Notification" />
+    </group>
+
+        <item android:title="My Profile">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/login_24"
+                    android:title="Login" />
+                <item
+                    android:id="@+id/nav_account"
+                    android:icon="@drawable/profile_icon"
+                    android:title="My Profile" />
+                <item
+                    android:id="@+id/nav_order"
+                    android:icon="@drawable/cart"
+                    android:title="My Order" />
+                <item
+                    android:id="@+id/nav_pay"
+                    android:icon="@drawable/payment_24"
+                    android:title="Pay Now" />
+                </group>
+            </menu>
+        </item>
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share_24"
+                    android:title="Share" />
+                <item
+                    android:id="@+id/nav_rate"
+                    android:icon="@drawable/star_rate_24"
+                    android:title="Rating " />
+                <item
+                    android:id="@+id/nav_feed"
+                    android:icon="@drawable/feedback_24"
+                    android:title="Feedback" />
+
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>
