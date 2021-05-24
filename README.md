@@ -1,6 +1,6 @@
 
 # Introduction
-**MonoHari** is an online grocery delivery application, where grocery shop owners can turn **their local business into an online delivery business.**
+**MonoHari** is an online grocery delivery application solution for local stores , where grocery shop owners can turn **their local business into an online delivery business.**
 # Working Goal
 Our application will be **connecting all local grocery shops** of a place, **listing their products on the application dashboard.**
 From **dashboard customers** can place an **order** according to their needs.
